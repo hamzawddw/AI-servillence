@@ -1,0 +1,10 @@
+flask
+flask-cors
+gunicorn
+requests
+numpy
+opencv-python-headless
+ultralytics
+face_recognition
+deepface
+tf-keras
